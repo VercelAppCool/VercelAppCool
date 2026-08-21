@@ -226,7 +226,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/passport/passport-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 
 <a href="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" rel="nofollow">
-<img src="hhttps://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 
 <a href="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" rel="nofollow">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
