@@ -233,6 +233,63 @@
 
 <a href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" rel="nofollow">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/pm2/pm2-original-wordmark.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pm2/pm2-original-wordmark.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/pyscript/pyscript-original-wordmark.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pyscript/pyscript-original-wordmark.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/racket/racket-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/racket/racket-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
 
 </p>
 
