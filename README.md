@@ -391,7 +391,6 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" rel="nofollow">
 <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 
-https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg
 <a href="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" rel="nofollow">
 <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 
