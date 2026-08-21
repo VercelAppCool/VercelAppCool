@@ -120,6 +120,119 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" rel="nofollow">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/harvester/harvester-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/harvester/harvester-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original-wordmark.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original-wordmark.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/lumen/lumen-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/lumen/lumen-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/memcached/memcached-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/memcached/memcached-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/newrelic/newrelic-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/newrelic/newrelic-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/nuxt/nuxt-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxt/nuxt-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/opentelemetry/opentelemetry-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/opentelemetry/opentelemetry-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/passport/passport-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/passport/passport-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" rel="nofollow">
+<img src="hhttps://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" rel="nofollow">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="typescript" width="42" height="42" style="max-width: 100%; height: auto; max-height: 42px;; aspect-ratio: 42 / 42; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 
 </p>
 
